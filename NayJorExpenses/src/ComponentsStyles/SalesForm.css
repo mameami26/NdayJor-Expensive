@@ -1,0 +1,43 @@
+.sale-form-container {
+  background-color: #F3F0EB;
+  padding: 2rem;
+  border-radius: 10px;
+  margin: 2rem auto;
+  max-width: 400px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sale-form-container h3 {
+  margin-bottom: 1rem;
+  color: #010101;
+  text-align: center;
+}
+
+.sale-form-container input {
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.6rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.sale-form-container button {
+  width: 100%;
+  padding: 0.6rem;
+  background: #C9A043;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.sale-form-container button:hover {
+  background: #010101;
+}
+
+.sale-form-container .message {
+  margin-top: 0.5rem;
+  color: #737271;
+  font-weight: 500;
+}

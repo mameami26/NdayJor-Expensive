@@ -1,0 +1,40 @@
+.dashboard {
+  padding: 2rem;
+  background-color: #F3F0EB;
+  color: #010101;
+}
+
+h2 {
+  margin-bottom: 1rem;
+  font-size: 1.75rem;
+}
+
+h3 {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  color: #C9A043;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  background-color: white;
+}
+
+th {
+  background-color: #C9A043;
+  color: white;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #ddd;
+}
+
+a {
+  color: #C9A043;
+  text-decoration: underline;
+}

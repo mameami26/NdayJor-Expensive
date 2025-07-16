@@ -1,0 +1,36 @@
+.expenses-list {
+  margin-top: 2rem;
+  overflow-x: auto;
+}
+
+.expenses-list h3 {
+  margin-bottom: 1rem;
+  color: #C9A043;
+}
+
+.expenses-list table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+}
+
+.expenses-list th, .expenses-list td {
+  border: 1px solid #ccc;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+.expenses-list th {
+  background-color: #F3F0EB;
+  color: #010101;
+}
+
+.expenses-list td a {
+  color: #C9A043;
+  text-decoration: underline;
+}
+
+.empty-text {
+  color: #737271;
+  font-style: italic;
+}

@@ -1,0 +1,36 @@
+.sales-list-container {
+  margin: 2rem auto;
+  padding: 1rem;
+  max-width: 800px;
+  background-color: #F3F0EB;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sales-list-container h3 {
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #010101;
+}
+
+.sales-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.sales-table th,
+.sales-table td {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.sales-table th {
+  background-color: #C9A043;
+  color: white;
+}
+
+.sales-table tr:hover {
+  background-color: #f1f1f1;
+}
