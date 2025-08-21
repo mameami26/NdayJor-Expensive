@@ -10,3 +10,4 @@ const AddExpensePage = () => {
 };
 
 export default AddExpensePage;
+        
